@@ -1,0 +1,8 @@
+.balloons{
+    transition: 0.2s;
+    border: 1px solid black;
+}
+
+.balloons:hover{
+    transform: scale(1.1);
+}
